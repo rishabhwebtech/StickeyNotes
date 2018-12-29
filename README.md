@@ -1,12 +1,15 @@
 # Sticky Notes
-# KEEP Web Application
-It use the sticky notes to store the data in database
+
+It use the sticky notes to store the data in database.
+
 Keep web application,which allows you to keep the information save in database.
 
 Technology used:
 Front End : Angular js, Bootstrap, Javascript, Html, CSS
 
 Back End : JSP/Servlet and MySQL RDBMS
+
+# KEEP Web Application Configuration
 
 SQL Query to create databse in MYSQL:
 
