@@ -5,6 +5,7 @@ Keep web application,which allows you to keep the information save in database.
 
 Technology used:
 Front End : Angular js, Bootstrap, Javascript, Html, CSS
+
 Back End : JSP/Servlet and MySQL RDBMS
 
 SQL Query to create databse in MYSQL:
@@ -18,6 +19,6 @@ CREATE TABLE  `note`.`keep` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
 
-Changes in username and password:
+Change the username and password:
 
 Change the database config in ConnectionUtil.java class 
