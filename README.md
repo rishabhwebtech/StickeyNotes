@@ -1,4 +1,5 @@
 # KEEP Web Application
+It use the sticky notes to store the data in database
 Keep web application,which allows you to keep the information save in database.
 
 Technology used:
